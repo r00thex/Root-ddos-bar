@@ -4,9 +4,6 @@
 > A high-performance, multi-method HTTP/S stress testing tool written in **Go**.
 Supports both HTTP and HTTPS, multiple attack vectors, proxy rotation, and massive concurrent worker pools.
 
----
-> HTTP/2 Rapid-Reset Exploit 1M+ RPS
-![Animation](https://github.com/user-attachments/assets/f33cb033-dfb6-4101-bdb5-507f2e5ad83e)
 
 ##  Methods
 
@@ -28,7 +25,7 @@ Supports both HTTP and HTTPS, multiple attack vectors, proxy rotation, and massi
 ### Quick Setup
 
 ```bash
-git clone https://github.com/Syn2Much/Slayer-L7.git
+git clone https://github.com/r00thex/Root-ddos-bar/
 cd Slayer-L7
 go mod tidy
 go build -o slayer .
@@ -110,10 +107,7 @@ socks5://proxy3.example.com:1080
 > This tool is intended **only** for authorized security testing and research.
 > Use **only** against systems you own or have **explicit written permission** to test.
 > Unauthorized use is illegal.
- 
-## 👤 Author
 
-**Syn2Much**
-
-[![Email](https://img.shields.io/badge/Email-hell%40sinnners.city-red?style=flat-square&logo=gmail)](mailto:hell@sinnners.city)
-[![X](https://img.shields.io/badge/@synacket-black?style=flat-square&logo=x)](https://x.com/synacket)
+ ---
+> HTTP/2 Rapid-Reset Exploit 1M+ RPS
+![Animation](https://github.com/user-attachments/assets/f33cb033-dfb6-4101-bdb5-507f2e5ad83e)
